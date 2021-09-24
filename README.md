@@ -3,6 +3,7 @@
 - [**Project Title**](#Project-Title)
 - [**Description**](#Description)
 - [**Data Used**](#Data-Used)
+- [**Programming Language Used**](#Programming-Language-Used)
 
 ## Project Title
 - Airbnb Business Analytics
@@ -16,3 +17,8 @@
 ## Data Used
 - [*Airbnb Business Analytics*](https://www.kaggle.com/kritikseth/us-airbnb-open-data)
 - [*Netflx Data Analytics*](https://www.kaggle.com/shivamb/netflix-shows)
+
+
+### Programming Language Used
+- *SQL, R, Python*
+
